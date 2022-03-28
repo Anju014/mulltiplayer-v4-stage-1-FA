@@ -13,12 +13,12 @@ class Form {
     this.greeting.position(width / 2 - 300, height / 2 - 100);
   }
 
- /* setElementsStyle() {
+ setElementsStyle() {
     this.titleImg.class("gameTitle");
     this.input.class("customInput");
     this.playButton.class("customButton");
     this.greeting.class("greeting");
-  } */
+  }
 
   hide() {
     this.greeting.hide();
